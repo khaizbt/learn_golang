@@ -17,7 +17,7 @@ func main() {
 		"Indonesia", "Malaysia", "Japan", "Thailand", "Portugal",
 	}
 
-	//Jika tidak didefinisikan Elemen
+	//Jika tidak didefinisikan jumlah elemen
 	framework := [...]string{
 		"Laravel",
 		"Codeigniter",

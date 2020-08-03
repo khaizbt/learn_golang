@@ -1,2 +1,4 @@
 # learn_golang
-Adalah Belajar Golang
+
+reference : https://dasarpemrogramangolang.novalagung.com/
+Course : https://buildwithangga.com/kelas/golang-fundamental

@@ -19,3 +19,4 @@ func main() {
 func (gamer *Gamer) AddGame(game string) { //tanda Bintang agar dimasukan ke memory yang sama
 	gamer.Games = append(gamer.Games, game)
 }
+
